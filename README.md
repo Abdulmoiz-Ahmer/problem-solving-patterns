@@ -22,9 +22,7 @@ This repository is ideal for:
 
 ## 📁 Structure
 
-Below is the folder structure with clickable links. Replace `your-username` with your GitHub username or organization name if you fork this repo.
-
-> **Repo URL placeholder**: `https://github.com/Abdulmoiz-Ahmer/problem-solving-patterns`
+Below is the folder structure with clickable links. 
 
 * [two-pointers](https://github.com/Abdulmoiz-Ahmer/problem-solving-patterns/tree/main/two-pointers)
 

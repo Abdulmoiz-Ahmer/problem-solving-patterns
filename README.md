@@ -28,7 +28,7 @@ Below is the folder structure with clickable links.
 
   * [is-palindrome.js](https://github.com/Abdulmoiz-Ahmer/problem-solving-patterns/blob/main/two-pointers/is-palindrome.js)
   * [is-palindrome.ts](https://github.com/Abdulmoiz-Ahmer/problem-solving-patterns/blob/main/two-pointers/is-palindrome.ts)
-  * [is\_palindrome.py](https://github.com/Abdulmoiz-Ahmer/problem-solving-patterns/blob/main/two-pointers/is_palindrome.py)
+  * [is_palindrome.py](https://github.com/Abdulmoiz-Ahmer/problem-solving-patterns/blob/main/two-pointers/is_palindrome.py)
 * [fast-and-slow-pointers](https://github.com/Abdulmoiz-Ahmer/problem-solving-patterns/tree/main/fast-and-slow-pointers)
 * [sliding-window](https://github.com/Abdulmoiz-Ahmer/problem-solving-patterns/tree/main/sliding-window)
 * [merge-intervals](https://github.com/Abdulmoiz-Ahmer/problem-solving-patterns/tree/main/merge-intervals)

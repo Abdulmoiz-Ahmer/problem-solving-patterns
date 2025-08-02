@@ -27,10 +27,15 @@ Below is the folder structure with clickable links.
 - [two-pointers](https://github.com/Abdulmoiz-Ahmer/problem-solving-patterns/tree/main/two-pointers)
 
   - [beginner](https://github.com/Abdulmoiz-Ahmer/problem-solving-patterns/blob/main/two-pointers/beginner)
+    - [valid-palindrome](https://github.com/Abdulmoiz-Ahmer/problem-solving-patterns/blob/main/two-pointers/beginner/valid-palindrome)
+      - [problem.md](https://github.com/Abdulmoiz-Ahmer/problem-solving-patterns/blob/main/two-pointers/beginner/valid-palindrome/problem.md)
+      - [solution.js](https://github.com/Abdulmoiz-Ahmer/problem-solving-patterns/blob/main/two-pointers/beginner/valid-palindrome/solution.js)
+      - [solution.py](https://github.com/Abdulmoiz-Ahmer/problem-solving-patterns/blob/main/two-pointers/beginner/valid-palindrome/solution.py)
     - [word-abbreviation-validation](https://github.com/Abdulmoiz-Ahmer/problem-solving-patterns/blob/main/two-pointers/beginner/word-abbreviation-validation)
       - [problem.md](https://github.com/Abdulmoiz-Ahmer/problem-solving-patterns/blob/main/two-pointers/beginner/word-abbreviation-validation/problem.md)
       - [solution.js](https://github.com/Abdulmoiz-Ahmer/problem-solving-patterns/blob/main/two-pointers/beginner/word-abbreviation-validation/solution.js)
       - [solution.py](https://github.com/Abdulmoiz-Ahmer/problem-solving-patterns/blob/main/two-pointers/beginner/word-abbreviation-validation/solution.py)
+
 - [fast-and-slow-pointers](https://github.com/Abdulmoiz-Ahmer/problem-solving-patterns/tree/main/fast-and-slow-pointers)
 - [sliding-window](https://github.com/Abdulmoiz-Ahmer/problem-solving-patterns/tree/main/sliding-window)
 - [merge-intervals](https://github.com/Abdulmoiz-Ahmer/problem-solving-patterns/tree/main/merge-intervals)

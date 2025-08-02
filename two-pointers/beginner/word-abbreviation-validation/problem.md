@@ -2,7 +2,7 @@
 
 ## Problem Statement
 
-Given a string `word` and an abbreviation `abbr`, return `TRUE` if the abbreviation matches the given string. Otherwise, return `FALSE`. 
+Given a string `word` and an abbreviation `abbr`, return `TRUE` if the abbreviation matches the given string. Otherwise, return `FALSE`.
 
 An abbreviation can replace any non-adjacent, non-empty substrings of the original word with their lengths. Replacement lengths must not contain leading zeros.
 
@@ -11,6 +11,7 @@ An abbreviation can replace any non-adjacent, non-empty substrings of the origin
 ### Valid Abbreviations
 
 1. `"calendar"` can be abbreviated as:
+
    - `"cal3ar"` ("cal" + "end" [length = 3] + "ar")
    - `"c6r"` ("c" + "alenda" [length = 6] + "r")
 
@@ -35,5 +36,6 @@ An abbreviation can replace any non-adjacent, non-empty substrings of the origin
 
 ```javascript
 function validWordAbbreviation(word, abbr) {
-    // Your implementation here
+  // Your implementation here
 }
+```

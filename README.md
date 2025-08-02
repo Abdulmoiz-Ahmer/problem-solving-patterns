@@ -31,9 +31,6 @@ Below is the folder structure with clickable links.
       - [problem.md](https://github.com/Abdulmoiz-Ahmer/problem-solving-patterns/blob/main/two-pointers/beginner/word-abbreviation-validation/problem.md)
       - [solution.js](https://github.com/Abdulmoiz-Ahmer/problem-solving-patterns/blob/main/two-pointers/beginner/word-abbreviation-validation/solution.js)
       - [solution.py](https://github.com/Abdulmoiz-Ahmer/problem-solving-patterns/blob/main/two-pointers/beginner/word-abbreviation-validation/solution.py)
-  - [is-palindrome.ts](https://github.com/Abdulmoiz-Ahmer/problem-solving-patterns/blob/main/two-pointers/is-palindrome.ts)
-  - [is_palindrome.py](https://github.com/Abdulmoiz-Ahmer/problem-solving-patterns/blob/main/two-pointers/is_palindrome.py)
-
 - [fast-and-slow-pointers](https://github.com/Abdulmoiz-Ahmer/problem-solving-patterns/tree/main/fast-and-slow-pointers)
 - [sliding-window](https://github.com/Abdulmoiz-Ahmer/problem-solving-patterns/tree/main/sliding-window)
 - [merge-intervals](https://github.com/Abdulmoiz-Ahmer/problem-solving-patterns/tree/main/merge-intervals)

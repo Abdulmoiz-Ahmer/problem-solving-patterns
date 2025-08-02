@@ -27,14 +27,22 @@ Below is the folder structure with clickable links.
 - [two-pointers](https://github.com/Abdulmoiz-Ahmer/problem-solving-patterns/tree/main/two-pointers)
 
   - [beginner](https://github.com/Abdulmoiz-Ahmer/problem-solving-patterns/blob/main/two-pointers/beginner)
+
     - [valid-palindrome](https://github.com/Abdulmoiz-Ahmer/problem-solving-patterns/blob/main/two-pointers/beginner/valid-palindrome)
       - [problem.md](https://github.com/Abdulmoiz-Ahmer/problem-solving-patterns/blob/main/two-pointers/beginner/valid-palindrome/problem.md)
       - [solution.js](https://github.com/Abdulmoiz-Ahmer/problem-solving-patterns/blob/main/two-pointers/beginner/valid-palindrome/solution.js)
       - [solution.py](https://github.com/Abdulmoiz-Ahmer/problem-solving-patterns/blob/main/two-pointers/beginner/valid-palindrome/solution.py)
+
     - [word-abbreviation-validation](https://github.com/Abdulmoiz-Ahmer/problem-solving-patterns/blob/main/two-pointers/beginner/word-abbreviation-validation)
       - [problem.md](https://github.com/Abdulmoiz-Ahmer/problem-solving-patterns/blob/main/two-pointers/beginner/word-abbreviation-validation/problem.md)
       - [solution.js](https://github.com/Abdulmoiz-Ahmer/problem-solving-patterns/blob/main/two-pointers/beginner/word-abbreviation-validation/solution.js)
       - [solution.py](https://github.com/Abdulmoiz-Ahmer/problem-solving-patterns/blob/main/two-pointers/beginner/word-abbreviation-validation/solution.py)
+
+  - [intermediate](https://github.com/Abdulmoiz-Ahmer/problem-solving-patterns/blob/main/two-pointers/intermediate)
+    - [3-sum](https://github.com/Abdulmoiz-Ahmer/problem-solving-patterns/blob/main/two-pointers/intermediate/valid-palindrome)
+      - [problem.md](https://github.com/Abdulmoiz-Ahmer/problem-solving-patterns/blob/main/two-pointers/intermediate/3-sum/problem.md)
+      - [solution.js](https://github.com/Abdulmoiz-Ahmer/problem-solving-patterns/blob/main/two-pointers/intermediate/3-sum/solution.js)
+      - [solution.py](https://github.com/Abdulmoiz-Ahmer/problem-solving-patterns/blob/main/two-pointers/intermediate/3-sum/solution.py)
 
 - [fast-and-slow-pointers](https://github.com/Abdulmoiz-Ahmer/problem-solving-patterns/tree/main/fast-and-slow-pointers)
 - [sliding-window](https://github.com/Abdulmoiz-Ahmer/problem-solving-patterns/tree/main/sliding-window)
@@ -122,7 +130,7 @@ Contributions are welcome! To contribute:
 1. Fork the repo
 2. Clone your fork
 3. Create a new branch: `git checkout -b feature/my-feature`
-4. Add your pattern/problem/solution with proper folder structure and comments
+4. Add your pattern/level/problem with proper folder structure and comments
 5. Commit and push your changes
 6. Open a pull request
 

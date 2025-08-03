@@ -1,54 +1,64 @@
 function threeSum(numbers) {
   // Sort the array in ascending order to enable the two-pointer approach
+  // Time Complexity: O(n log n)
   numbers = numbers.sort((a, b) => a - b);
-  const sums = []; // This will store all unique triplets that sum to 0
+
+  // This will store all unique triplets that sum to 0
+  const sums = [];
 
   // Outer loop: iterate through each number as the first element of potential triplets
-  for (let i = 0; i < numbers.length; i++) {
+  // We stop at length - 2 because we need at least 3 numbers to form a triplet
+  // Time Complexity: O(n) for this loop
+  for (let i = 0; i < numbers.length - 2; i++) {
     // Initialize two pointers:
-    // - 'low' starts right after the current number
-    // - 'high' starts at the end of the array
-    let low = i + 1,
-      high = numbers.length - 1;
+    let low = i + 1; // 'low' starts right after current number
+    let high = numbers.length - 1; // 'high' starts at end of array
 
     // Skip duplicate values for the first element to avoid duplicate triplets
-    // Note: This checks against the previous element (i-1) to catch duplicates
+    // We compare with previous element (i-1) to catch duplicates
+    // This optimization helps reduce unnecessary computations
     if (i > 0 && numbers[i] === numbers[i - 1]) {
       continue;
     }
 
     // Inner loop: two-pointer approach to find complementary pairs
+    // Time Complexity: O(n) for this while loop (nested, but not quadratic due to pointer movement)
     while (low < high) {
-      // Calculate the current sum of the three numbers
+      // Calculate current sum of the three numbers
       const sum = numbers[i] + numbers[low] + numbers[high];
 
       if (sum < 0) {
-        // If sum is too small, move the left pointer right to increase the sum
+        // Sum is too small, move left pointer right to increase sum
         low++;
       } else if (sum > 0) {
-        // If sum is too large, move the right pointer left to decrease the sum
+        // Sum is too large, move right pointer left to decrease sum
         high--;
       } else {
         // Found a valid triplet that sums to 0
         sums.push([numbers[i], numbers[low], numbers[high]]);
 
-        // Move both pointers inward after finding a valid triplet
+        // Move both pointers inward to search for new combinations
         low++;
+        high--;
 
-        // Skip duplicate values for the second element (low pointer)
-        while (numbers[low] === numbers[low - 1]) {
+        // Skip duplicate values for the low pointer
+        // This ensures we don't process the same value multiple times
+        while (low < high && numbers[low] === numbers[low - 1]) {
           low++;
         }
 
-        // Skip duplicate values for the third element (high pointer)
-        while (numbers[high] === numbers[high + 1]) {
+        // Skip duplicate values for the high pointer
+        // Similar optimization as above for the right pointer
+        while (low < high && numbers[high] === numbers[high + 1]) {
           high--;
         }
       }
     }
   }
 
-  return sums; // Return all found triplets
+  // Return all found triplets
+  // Space Complexity: O(n) in worst case (when many triplets exist)
+  return sums;
 }
 
 export { threeSum };

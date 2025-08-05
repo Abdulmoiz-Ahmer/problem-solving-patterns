@@ -37,11 +37,14 @@ Below is the folder structure with clickable links.
       - [solution.py](https://github.com/Abdulmoiz-Ahmer/problem-solving-patterns/blob/main/two-pointers/beginner/word-abbreviation-validation/solution.py)
 
   - [intermediate](https://github.com/Abdulmoiz-Ahmer/problem-solving-patterns/blob/main/two-pointers/intermediate)
-    - [3-sum](https://github.com/Abdulmoiz-Ahmer/problem-solving-patterns/blob/main/two-pointers/intermediate/valid-palindrome)
+    - [3-sum](https://github.com/Abdulmoiz-Ahmer/problem-solving-patterns/blob/main/two-pointers/intermediate/3-sum)
       - [problem.md](https://github.com/Abdulmoiz-Ahmer/problem-solving-patterns/blob/main/two-pointers/intermediate/3-sum/problem.md)
       - [solution.js](https://github.com/Abdulmoiz-Ahmer/problem-solving-patterns/blob/main/two-pointers/intermediate/3-sum/solution.js)
       - [solution.py](https://github.com/Abdulmoiz-Ahmer/problem-solving-patterns/blob/main/two-pointers/intermediate/3-sum/solution.py)
-
+    - [remove-nth-node-from-end-of-list](https://github.com/Abdulmoiz-Ahmer/problem-solving-patterns/blob/main/two-pointers/intermediate/remove-nth-node-from-end-of-list)
+      - [problem.md](https://github.com/Abdulmoiz-Ahmer/problem-solving-patterns/blob/main/two-pointers/intermediate/remove-nth-node-from-end-of-list/problem.md)
+      - [solution.js](https://github.com/Abdulmoiz-Ahmer/problem-solving-patterns/blob/main/two-pointers/intermediate/remove-nth-node-from-end-of-list/solution.js)
+      - [solution.py](https://github.com/Abdulmoiz-Ahmer/problem-solving-patterns/blob/main/two-pointers/intermediate/remove-nth-node-from-end-of-list/solution.py)
 - [fast-and-slow-pointers](https://github.com/Abdulmoiz-Ahmer/problem-solving-patterns/tree/main/fast-and-slow-pointers)
 - [sliding-window](https://github.com/Abdulmoiz-Ahmer/problem-solving-patterns/tree/main/sliding-window)
 - [merge-intervals](https://github.com/Abdulmoiz-Ahmer/problem-solving-patterns/tree/main/merge-intervals)

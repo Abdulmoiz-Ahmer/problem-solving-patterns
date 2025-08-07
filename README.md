@@ -45,6 +45,11 @@ Below is the folder structure with clickable links.
       - [problem.md](https://github.com/Abdulmoiz-Ahmer/problem-solving-patterns/blob/main/two-pointers/intermediate/remove-nth-node-from-end-of-list/problem.md)
       - [solution.js](https://github.com/Abdulmoiz-Ahmer/problem-solving-patterns/blob/main/two-pointers/intermediate/remove-nth-node-from-end-of-list/solution.js)
       - [solution.py](https://github.com/Abdulmoiz-Ahmer/problem-solving-patterns/blob/main/two-pointers/intermediate/remove-nth-node-from-end-of-list/solution.py)
+    - [sort-colors](https://github.com/Abdulmoiz-Ahmer/problem-solving-patterns/blob/main/two-pointers/intermediate/sort-colors)
+      - [problem.md](https://github.com/Abdulmoiz-Ahmer/problem-solving-patterns/blob/main/two-pointers/intermediate/sort-colors/problem.md)
+      - [solution.js](https://github.com/Abdulmoiz-Ahmer/problem-solving-patterns/blob/main/two-pointers/intermediate/sort-colors/solution.js)
+      - [solution.py](https://github.com/Abdulmoiz-Ahmer/problem-solving-patterns/blob/main/two-pointers/intermediate/sort-colors/solution.py)
+
 - [fast-and-slow-pointers](https://github.com/Abdulmoiz-Ahmer/problem-solving-patterns/tree/main/fast-and-slow-pointers)
 - [sliding-window](https://github.com/Abdulmoiz-Ahmer/problem-solving-patterns/tree/main/sliding-window)
 - [merge-intervals](https://github.com/Abdulmoiz-Ahmer/problem-solving-patterns/tree/main/merge-intervals)

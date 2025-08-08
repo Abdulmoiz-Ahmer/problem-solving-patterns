@@ -25,38 +25,57 @@ This repository is ideal for:
 Below is the folder structure with clickable links.
 
 - [two-pointers](https://github.com/Abdulmoiz-Ahmer/problem-solving-patterns/tree/main/two-pointers)
+
   - [explanation](https://github.com/Abdulmoiz-Ahmer/problem-solving-patterns/blob/main/two-pointers/explanation.md)
 
   - [beginner](https://github.com/Abdulmoiz-Ahmer/problem-solving-patterns/blob/main/two-pointers/beginner)
+
     - [valid-palindrome](https://github.com/Abdulmoiz-Ahmer/problem-solving-patterns/blob/main/two-pointers/beginner/valid-palindrome)
+
       - [problem.md](https://github.com/Abdulmoiz-Ahmer/problem-solving-patterns/blob/main/two-pointers/beginner/valid-palindrome/problem.md)
+      - [solution.md](https://github.com/Abdulmoiz-Ahmer/problem-solving-patterns/blob/main/two-pointers/beginner/valid-palindrome/solution.md)
       - [solution.js](https://github.com/Abdulmoiz-Ahmer/problem-solving-patterns/blob/main/two-pointers/beginner/valid-palindrome/solution.js)
       - [solution.py](https://github.com/Abdulmoiz-Ahmer/problem-solving-patterns/blob/main/two-pointers/beginner/valid-palindrome/solution.py)
+
     - [word-abbreviation-validation](https://github.com/Abdulmoiz-Ahmer/problem-solving-patterns/blob/main/two-pointers/beginner/word-abbreviation-validation)
       - [problem.md](https://github.com/Abdulmoiz-Ahmer/problem-solving-patterns/blob/main/two-pointers/beginner/word-abbreviation-validation/problem.md)
+      - [solution.md](https://github.com/Abdulmoiz-Ahmer/problem-solving-patterns/blob/main/two-pointers/beginner/word-abbreviation-validation/solution.md)
       - [solution.js](https://github.com/Abdulmoiz-Ahmer/problem-solving-patterns/blob/main/two-pointers/beginner/word-abbreviation-validation/solution.js)
       - [solution.py](https://github.com/Abdulmoiz-Ahmer/problem-solving-patterns/blob/main/two-pointers/beginner/word-abbreviation-validation/solution.py)
 
   - [intermediate](https://github.com/Abdulmoiz-Ahmer/problem-solving-patterns/blob/main/two-pointers/intermediate)
+
     - [3-sum](https://github.com/Abdulmoiz-Ahmer/problem-solving-patterns/blob/main/two-pointers/intermediate/3-sum)
+
       - [problem.md](https://github.com/Abdulmoiz-Ahmer/problem-solving-patterns/blob/main/two-pointers/intermediate/3-sum/problem.md)
+      - [solution.md](https://github.com/Abdulmoiz-Ahmer/problem-solving-patterns/blob/main/two-pointers/beginner/3-sum/solution.md)
       - [solution.js](https://github.com/Abdulmoiz-Ahmer/problem-solving-patterns/blob/main/two-pointers/intermediate/3-sum/solution.js)
       - [solution.py](https://github.com/Abdulmoiz-Ahmer/problem-solving-patterns/blob/main/two-pointers/intermediate/3-sum/solution.py)
+
     - [remove-nth-node-from-end-of-list](https://github.com/Abdulmoiz-Ahmer/problem-solving-patterns/blob/main/two-pointers/intermediate/remove-nth-node-from-end-of-list)
+
       - [problem.md](https://github.com/Abdulmoiz-Ahmer/problem-solving-patterns/blob/main/two-pointers/intermediate/remove-nth-node-from-end-of-list/problem.md)
+      - [solution.md](https://github.com/Abdulmoiz-Ahmer/problem-solving-patterns/blob/main/two-pointers/beginner/remove-nth-node-from-end-of-list/solution.md)
       - [solution.js](https://github.com/Abdulmoiz-Ahmer/problem-solving-patterns/blob/main/two-pointers/intermediate/remove-nth-node-from-end-of-list/solution.js)
       - [solution.py](https://github.com/Abdulmoiz-Ahmer/problem-solving-patterns/blob/main/two-pointers/intermediate/remove-nth-node-from-end-of-list/solution.py)
+
     - [sort-colors](https://github.com/Abdulmoiz-Ahmer/problem-solving-patterns/blob/main/two-pointers/intermediate/sort-colors)
+
       - [problem.md](https://github.com/Abdulmoiz-Ahmer/problem-solving-patterns/blob/main/two-pointers/intermediate/sort-colors/problem.md)
+      - [solution.md](https://github.com/Abdulmoiz-Ahmer/problem-solving-patterns/blob/main/two-pointers/beginner/sort-colors/solution.md)
       - [solution.js](https://github.com/Abdulmoiz-Ahmer/problem-solving-patterns/blob/main/two-pointers/intermediate/sort-colors/solution.js)
       - [solution.py](https://github.com/Abdulmoiz-Ahmer/problem-solving-patterns/blob/main/two-pointers/intermediate/sort-colors/solution.py)
+
     - [reverse-words-in-a-string](https://github.com/Abdulmoiz-Ahmer/problem-solving-patterns/blob/main/two-pointers/intermediate/reverse-words-in-a-string)
+
       - [problem.md](https://github.com/Abdulmoiz-Ahmer/problem-solving-patterns/blob/main/two-pointers/intermediate/reverse-words-in-a-string/problem.md)
+      - [solution.md](https://github.com/Abdulmoiz-Ahmer/problem-solving-patterns/blob/main/two-pointers/beginner/reverse-words-in-a-string/solution.md)
       - [solution.js](https://github.com/Abdulmoiz-Ahmer/problem-solving-patterns/blob/main/two-pointers/intermediate/reverse-words-in-a-string/solution.js)
       - [solution.py](https://github.com/Abdulmoiz-Ahmer/problem-solving-patterns/blob/main/two-pointers/intermediate/reverse-words-in-a-string/solution.py)
 
     - [lowest-common-ancestor-of-a-binary-tree-III](https://github.com/Abdulmoiz-Ahmer/problem-solving-patterns/blob/main/two-pointers/intermediate/lowest-common-ancestor-of-a-binary-tree-III)
       - [problem.md](https://github.com/Abdulmoiz-Ahmer/problem-solving-patterns/blob/main/two-pointers/intermediate/lowest-common-ancestor-of-a-binary-tree-III/problem.md)
+      - [solution.md](https://github.com/Abdulmoiz-Ahmer/problem-solving-patterns/blob/main/two-pointers/beginner/lowest-common-ancestor-of-a-binary-tree-III/solution.md)
       - [solution.js](https://github.com/Abdulmoiz-Ahmer/problem-solving-patterns/blob/main/two-pointers/intermediate/lowest-common-ancestor-of-a-binary-tree-III/solution.js)
       - [solution.py](https://github.com/Abdulmoiz-Ahmer/problem-solving-patterns/blob/main/two-pointers/intermediate/lowest-common-ancestor-of-a-binary-tree-III/solution.py)
 

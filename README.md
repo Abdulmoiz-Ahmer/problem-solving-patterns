@@ -25,6 +25,7 @@ This repository is ideal for:
 Below is the folder structure with clickable links.
 
 - [two-pointers](https://github.com/Abdulmoiz-Ahmer/problem-solving-patterns/tree/main/two-pointers)
+  - [explanation](https://github.com/Abdulmoiz-Ahmer/problem-solving-patterns/blob/main/two-pointers/explanation.md)
 
   - [beginner](https://github.com/Abdulmoiz-Ahmer/problem-solving-patterns/blob/main/two-pointers/beginner)
     - [valid-palindrome](https://github.com/Abdulmoiz-Ahmer/problem-solving-patterns/blob/main/two-pointers/beginner/valid-palindrome)
@@ -53,6 +54,11 @@ Below is the folder structure with clickable links.
       - [problem.md](https://github.com/Abdulmoiz-Ahmer/problem-solving-patterns/blob/main/two-pointers/intermediate/reverse-words-in-a-string/problem.md)
       - [solution.js](https://github.com/Abdulmoiz-Ahmer/problem-solving-patterns/blob/main/two-pointers/intermediate/reverse-words-in-a-string/solution.js)
       - [solution.py](https://github.com/Abdulmoiz-Ahmer/problem-solving-patterns/blob/main/two-pointers/intermediate/reverse-words-in-a-string/solution.py)
+
+    - [lowest-common-ancestor-of-a-binary-tree-III](https://github.com/Abdulmoiz-Ahmer/problem-solving-patterns/blob/main/two-pointers/intermediate/lowest-common-ancestor-of-a-binary-tree-III)
+      - [problem.md](https://github.com/Abdulmoiz-Ahmer/problem-solving-patterns/blob/main/two-pointers/intermediate/lowest-common-ancestor-of-a-binary-tree-III/problem.md)
+      - [solution.js](https://github.com/Abdulmoiz-Ahmer/problem-solving-patterns/blob/main/two-pointers/intermediate/lowest-common-ancestor-of-a-binary-tree-III/solution.js)
+      - [solution.py](https://github.com/Abdulmoiz-Ahmer/problem-solving-patterns/blob/main/two-pointers/intermediate/lowest-common-ancestor-of-a-binary-tree-III/solution.py)
 
 - [fast-and-slow-pointers](https://github.com/Abdulmoiz-Ahmer/problem-solving-patterns/tree/main/fast-and-slow-pointers)
 - [sliding-window](https://github.com/Abdulmoiz-Ahmer/problem-solving-patterns/tree/main/sliding-window)

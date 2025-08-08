@@ -97,3 +97,11 @@ Processing rules:
 5. If loop finishes without mismatches → return `True`.
 
 ---
+
+### Time Complexity
+
+The time complexity of the above solution is **O(n)**, where `n` is the number of characters in the string.
+
+### Space Complexity
+
+The space complexity of the above solution is **O(1)**.
